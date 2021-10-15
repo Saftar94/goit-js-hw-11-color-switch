@@ -1,0 +1,33 @@
+{
+  "name": "goit-js-hw-11-color-switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saftar94/goit-js-hw-11-color-switch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saftar94/goit-js-hw-11-color-switch/issues"
+  },
+  "homepage": "https://github.com/Saftar94/goit-js-hw-11-color-switch#readme",
+  "devDependencies": {
+    "css-loader": "^6.4.0",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.2",
+    "lodash": "^4.17.21"
+  }
+}
