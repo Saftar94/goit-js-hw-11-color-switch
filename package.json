@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Saftar94/goit-js-hw-11-color-switch#readme",
   "devDependencies": {
     "css-loader": "^6.4.0",
+    "style-loader": "^3.3.0",
     "webpack": "^5.58.2",
     "webpack-cli": "^4.9.0",
     "webpack-dev-server": "^4.3.1"
